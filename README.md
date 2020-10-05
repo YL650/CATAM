@@ -6,4 +6,4 @@ For CATAM IB subdirectory, MAT.pdf is for Project 1.1 in the manual, ODE.pdf is 
 
 For CATAM II subdirectory, Minimisation.pdf answers questions from Project 7.3 in the manual, and Primality Test.pdf answers questions from Project 15.1. 
 
-Note also that the CATAM II reports are generally more 'wordy'. This is due to the nature of projects I chose: fewer proofs were required and more algorithmic aspects of a mathematical methods were explored(such as space/time complexity and stability). 
+Note also that the CATAM II reports are generally more 'wordy'. This is due to the nature of projects I chose: fewer proofs were required and more algorithmic aspects of mathematical methods were explored(such as space/time complexity and stability). 
